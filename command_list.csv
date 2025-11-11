@@ -1,0 +1,28 @@
+    1  git clone https://github.com/izumchik8181-dot/HW_10.git
+    2  git clone https://github.com/izumchik8181-dot/HW_10.git
+    3  ді -ф
+    4  ls -a
+    5  touch text_ignore.txt
+    6  cd /c/Users/user/Desktop/Git/HW_10
+    7  touch text_ignore.txt
+    8  git status
+    9  git add .
+   10  touch main_test.txt
+   11  git add .
+   12  git commit -m "add files"
+   13  git branch develop
+   14  git branch
+   15  git checkout develop
+   16  git branch
+   17  touch develop_test.txt
+   18  git add .
+   19  git commit -m "add develop branch and file"
+   20  git status
+   21  git add .
+   22  git commit -m "change develop test file"
+   23  git checkout main
+   24  branch
+   25  git branch
+   26  git merge develop
+   27  git log
+   28  history > command_list.csv
